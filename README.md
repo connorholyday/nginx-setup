@@ -1,4 +1,5 @@
 # NGINX Setup
+> Below you can read a detailed guide how to setup Nginx and PHP-FPM on OS X 
 
 Here's a rough guide on how to setup your local machine to serve local websites with nginx, based on an article by [Jonas Friedmann](https://blog.frd.mn/install-nginx-php-fpm-mysql-and-phpmyadmin-on-os-x-mavericks-using-homebrew/)
 
